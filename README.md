@@ -1,0 +1,26 @@
+# 论文结构树（第三章及第四章）
+- 第三章
+  - 3.1 榆中站气象要素的年际变化特征
+  - 3.2 榆中站气象要素的季节变化特征
+  - 3.3 榆中站气象要素的日变化特征
+  - 3.4 小结
+- 第四章
+  - 4.1 SACOL站不同频率亮温的年际变化特征
+  - 4.2 SACOL站不同频率亮温的季节及日变化特征
+  - 4.3 不同天气形势下观测亮温与模拟亮温的差异
+  - 4.4 小结
+---
+# 代码文件树
+- README.md
+- Data Analysis
+    - 3.1Wyoming_year.ipynb
+    - 3.2mircowave_season.ipynb
+    - 3.2season_mse.ipynb
+    - 3.2Wyoming_season.ipynb
+    - 3.3mircowave_day.ipynb
+    - 4.1mircowave_year.ipynb
+    - 4.2mircowave_day.ipynb
+    - conver_t_td_to_rh_sh.ipynb
+    - extract_Wyoming.ipynb
+    - read_filepath_module.py
+- Machine Learning
