@@ -35,6 +35,7 @@
 - Machine Learning
   - Data_summary.ipynb(将各年份原始数据处理后汇总成对应年份csv文件)
   - Fault_data.ipynb
+  - Hidden_layer_node.py(隐藏层节点计算公式)
   - Moving_average.ipynb(滑动平均处理部分，已经集成到Data_summary.ipynb中)
   - NN_Rh.ipynb(相对湿度训练)
   - NN_Temperature.ipynb(温度训练)
