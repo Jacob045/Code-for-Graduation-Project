@@ -13,3 +13,11 @@ R
 "Machine Learning/NN_Temperature.py,4\7\477c24d9439560e055ea6df75d28452ac9775483
 U
 %Machine Learning/Hidden_layer_node.py,6\1\61096cb175b972e282c39092623dd7d34e75f2b9
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+U
+%Machine Learning/NN_Temperature.ipynb,4\f\4f2f9fdbd83320fea6e65468ed633eb29f16e381
+Q
+!Data Analysis/3.2season_mse.ipynb,4\0\401e543866e6d0e651336d80734597ad8662f52d
+H
+Machine Learning/test.py,3\c\3c30509a973cb6ccf432dc0689ed74afb9f4aee5
