@@ -22,14 +22,13 @@
 ## 代码文件树
 - README.md(本文件)
 - Data Analysis
-    - 3.1Wyoming_year.ipynb
-    - 3.2mircowave_season.ipynb
-    - 3.2season_mse.ipynb
-    - 3.2Wyoming_season.ipynb
-    - 3.3mircowave_day.ipynb
-    - 4.1mircowave_year.ipynb
-    - 4.2mircowave_day.ipynb
-    - conver_t_td_to_rh_sh.ipynb
+    - 3.1.1_3.1.3_Wyoming_year.ipynb 
+    - 3.1.2_3.1.4_season_mse.ipynb
+    - 3.1.2_3.1.4_Wyoming_season.ipynb
+    - 3.1.5 microwave_day.ipynb
+    - 3.2.1 microwave_year.ipynb
+    - 3.2.2 microwave_day.ipynb
+    - 3.2.2 microwave_season.ipynb
     - extract_Wyoming.ipynb
     - read_filepath_module.py
 - Machine Learning

@@ -136,3 +136,16 @@ for i in range(10):
 # print(r1/10)
 print('相关系数 {:.4}'.format(r1/10))
 
+flag = 2
+fig = plt.figure(figsize=(4,10))
+Height = test_labels.columns
+X1 = model.predict(test_data[flag:flag+1]).T
+X2 = test_labels[flag:flag+1].T
+plt.plot(np.abs(X1-X2),Height)
+# plt.plot(X1,Height)
+# plt.plot(X2,Height)
+plt.show()
+print('相关系数{:.4}'.format(np.corrcoef(X1.T,X2.T)[0,1]))
+# print('平均偏差{:.4}'.format((X1-X2).mean().values))
+# print(np.corrcoef(X1.T,X2.T))
+print(np.abs(np.mean(X1-X2).round(4)))
