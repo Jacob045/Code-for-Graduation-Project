@@ -3,8 +3,6 @@
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 \
 ,Data_Analysis/3.1.1_3.1.3_Wyoming_year.ipynb,4\c\4c42ddb5be9805a99eea408276649ccba31f71e8
 Z
@@ -63,8 +61,6 @@ c
 3Machine_Learning/Basic_Data/2010_Temperature_20.csv,f\6\f685309b1b507cee64eb4654f70bdb660cfd20da
 V
 &Machine_Learning/training_1/checkpoint,6\0\6084afd9b2fe9e77553cc18c996d73a899f25c5b
-S
-#Machine_Learning/Data_summary.ipynb,1\4\14933d85f6ba94b577cac8f0128048039c43fb28
 K
 Machine_Learning/demo.ipynb,7\8\7895341de11f67d3bc506af3914815b7ff7fe0e9
 S
@@ -101,13 +97,9 @@ Z
 .Machine_Learning/Basic_Data/Temperature_08.csv,7\5\75cb3013ebf68beb943ab1b841905f57bacbc147
 ^
 .Machine_Learning/Basic_Data/Temperature_20.csv,2\d\2de4cd27b02b4a3960690abc4534e0e3181ae8c0
-P
- Machine_Learning/Load_Data.ipynb,e\8\e84be2d4acec6df7d4d81d353bfd9bda7bd6cec1
-M
-Machine_Learning/Load_Data.py,e\3\e39945d61b9643970341da22fc84546f79e50ae0
-U
-%Machine_Learning/NN_Temperature.ipynb,1\d\1d2addac4e00a40e9ce7d906205ee64a7fddb5af
-R
-"Machine_Learning/NN_Temperature.py,7\3\73af2793ec54b509c1ed1a7133e5e8079c1bafac
-o
-?Machine_Learning/Extract_simulated_brightness_temperature.ipynb,1\a\1a5590abf61794ce61328a138b42126c01307d6d
+H
+Machine_Learning/demo.py,e\7\e765eb1aea8964fd51f9cb767d727600bf91a37c
+Z
+*Machine_Learning/Extract_observation_bt.py,c\3\c39af8a508f0521620c9ae9dad1678f46856b93d
+S
+#Machine_Learning/Data_summary.ipynb,1\4\14933d85f6ba94b577cac8f0128048039c43fb28

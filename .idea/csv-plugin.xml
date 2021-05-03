@@ -3,34 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\Machine Learning\Hidden_layer_node.py">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\NN_Temperature.ipynb">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\NN_Temperature.py">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\test.py">
-          <value>
-            <Attribute>
-              <option name="separator" value=":" />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Machine_Learning\Basic_Data\2007_Relative_humidity_08.csv">
           <value>
             <Attribute>
@@ -221,34 +193,6 @@
           </value>
         </entry>
         <entry key="\Machine_Learning\Basic_Data\statistics.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine_Learning\Extract_simulated_brightness_temperature.ipynb">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine_Learning\Extract_simulated_brightness_temperature.py">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine_Learning\Load_Data.ipynb">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine_Learning\NN_Temperature.ipynb">
           <value>
             <Attribute>
               <option name="separator" value="," />
