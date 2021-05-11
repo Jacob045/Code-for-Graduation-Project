@@ -1,0 +1,8 @@
+
+Vpython:S905":Remove or refactor this statement; it has no side effects.(›òÙ¤úÿÿÿÿ
+6python:S125""Remove this commented out code.(Ê‰Ö»
+;python:S125'"Remove this commented out code.(ïÛÈ™ÿÿÿÿÿ
+upython:S117C"YRename this local variable "My_model" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß¨Ì–úÿÿÿÿ
+6python:S125J"Remove this commented out code.(÷è—Í
+7python:S125˜"Remove this commented out code.(ˆš”Å
+7python:S125œ"Remove this commented out code.(§“ö

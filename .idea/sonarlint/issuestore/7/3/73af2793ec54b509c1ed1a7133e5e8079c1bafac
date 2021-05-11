@@ -1,0 +1,8 @@
+
+]python:S905":Remove or refactor this statement; it has no side effects.(›òÙ¤úÿÿÿÿ8š¦Ü–/
+=python:S125""Remove this commented out code.(Ê‰Ö»8š¦Ü–/
+Bpython:S125'"Remove this commented out code.(ïÛÈ™ÿÿÿÿÿ8š¦Ü–/
+|python:S117C"YRename this local variable "My_model" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß¨Ì–úÿÿÿÿ8š¦Ü–/
+=python:S125J"Remove this commented out code.(÷è—Í8š¦Ü–/
+>python:S125˜"Remove this commented out code.(ˆš”Å8š¦Ü–/
+>python:S125œ"Remove this commented out code.(§“ö8š¦Ü–/

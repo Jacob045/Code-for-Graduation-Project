@@ -1,0 +1,4 @@
+
+dpython:S117"MRename this parameter "T" to match the regular expression ^[_a-z][a-z0-9_]*$.( ‹éö
+epython:S117"NRename this parameter "Td" to match the regular expression ^[_a-z][a-z0-9_]*$.( ‹éö
+;python:S1250"Remove this commented out code.(¿§”Æÿÿÿÿÿ

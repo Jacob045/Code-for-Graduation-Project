@@ -1,0 +1,8 @@
+
+python:S117"\Rename this local variable "Temperature" to match the regular expression ^[_a-z][a-z0-9_]*$.(º×»¯üÿÿÿÿ8Ø­ôŒ/
+spython:S117"URename this local variable "Time" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºùÁ¼8Ø­ôŒ/
+zpython:S1542"\Rename function "Extract_observation_bt" to match the regular expression ^[a-z_][a-z0-9_]*$.(İå@8îù²ö/
+rpython:S117"URename this local variable "Year" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ì”ä8Ø­ôŒ/
+spython:S117"URename this local variable "Path" to match the regular expression ^[_a-z][a-z0-9_]*$.(°°ö´8Ø­ôŒ/
+tpython:S117"VRename this local variable "Times" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘à²8Ø­ôŒ/
+npython:S117"QRename this parameter "Years" to match the regular expression ^[_a-z][a-z0-9_]*$.(İå@8Ø­ôŒ/
